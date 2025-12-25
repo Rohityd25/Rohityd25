@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am final year of student in the branch of artificial intelligence and machine learning currently learning java and Sprin boot and along with the frontend html , css , javascript , and reacts .js<br>
+Final-year AI & ML student | Learning Java, Spring Boot, React.js | Aspiring Full-Stack & AI Developer | Passionate about building real-world applications
 
 
 ## 🌐 Socials:
